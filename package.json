@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alexmkinsman/teamGenerator/issues"
   },
-  "homepage": "https://github.com/alexmkinsman/teamGenerator#readme"
+  "homepage": "https://github.com/alexmkinsman/teamGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.0.3"
+  }
 }
