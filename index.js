@@ -10,3 +10,10 @@ const path = require("path");
 const fs = require("fs");
 
 console.log("Welcome to the team generator");
+
+function appMenu(){
+    
+
+}
+
+appMenu();
